@@ -22,8 +22,8 @@
     },
     "autoload": {
         "psr-4": {
-			"Slim\MVC\\": "src/"
-		}
+			"Slim\\MVC\\": "src"
+        }
     },
     "minimum-stability": "dev"
 }
