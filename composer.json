@@ -17,7 +17,8 @@
         "php":">=5.3.0",
         "j4mie/paris":"dev-develop",
         "league/plates": "*",
-        "slim/slim": "2.*"
+        "slim/slim": "2.*",
+        "slim-extensions/widgets": "dev-master"
     },
     "autoload": {
         "psr-4": {
