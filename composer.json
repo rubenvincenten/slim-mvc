@@ -17,12 +17,11 @@
         "php":">=5.3.0",
         "j4mie/paris":"dev-develop",
         "league/plates": "*",
-        "slim/slim": "2.*",
-        "slim-extensions/widgets": "dev-master"
+        "slim/slim": "2.*"
     },
     "autoload": {
         "psr-4": {
-			"Slim\\MVC\\": "src"
+			"Slim\\MVC\\": "src/"
         }
     },
     "minimum-stability": "dev"
