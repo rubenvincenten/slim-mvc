@@ -1,0 +1,29 @@
+{
+    "name": "slim-extensions/mvc",
+    "description": "Support MVC for Slim Framework",
+    "keywords": ["Slim Framework", "framework", "slim", "mvc", "controller", "model", "views", "template", "plates", "orm", "activerecord", "idiorm", "paris"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dmitry Momot",
+            "email": "mail@dmomot.com",
+            "role": "developer"
+        }
+    ],
+	"config": {
+		"vendor-dir": "vendor"
+	},
+    "require":{
+        "php":">=5.3.0",
+        "j4mie/paris":"dev-develop",
+        "league/plates": "*",
+        "slim/slim": "2.*",
+        "slim-extensions/widgets": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+			"Slim\MVC\\": "src/"
+		}
+    },
+    "minimum-stability": "dev"
+}
