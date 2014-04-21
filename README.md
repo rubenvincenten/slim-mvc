@@ -5,7 +5,7 @@ Support MVC for Slim Framework
 
 ## Installation
 
-Plates is available via Composer:
+MVC is available via Composer:
 
 ```json
 {
@@ -16,8 +16,9 @@ Plates is available via Composer:
 ```
 
 ## Example of usage
+
 See [slim-extensions-example](https://github.com/dimkof/slim-extensions-example)
 
 ## License
 
-The MIT License (MIT). Please see [License File](https://github.com/dimkof/slim-widgets/blob/master/LICENSE) for more information.
+The MIT License (MIT). Please see [License File](https://github.com/dimkof/slim-mvc/blob/master/LICENSE) for more information.
