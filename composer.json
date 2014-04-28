@@ -9,7 +9,7 @@
             "email": "mail@dmomot.com",
             "role": "developer"
         }
-    ]
+    ],
     "require":{
         "php":">=5.3.0",
         "league/plates": "2.*",
