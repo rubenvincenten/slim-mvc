@@ -1,0 +1,13 @@
+<?php
+
+return array(
+
+	// config for development environment
+	'development' => 'mysql://username:password@localhost/database_name',
+
+	// config for test environment
+	'test' => 'mysql://username:password@localhost/database_name',
+
+	// config for production environment
+	'production' => 'mysql://username:password@localhost/database_name',
+);
