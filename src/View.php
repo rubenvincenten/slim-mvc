@@ -1,6 +1,6 @@
 <?php
 
-namespace Slim\MVC;
+namespace Slim\Extension;
 
 use \Slim;
 use \RuntimeException;
